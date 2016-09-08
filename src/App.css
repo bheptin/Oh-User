@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-image: url(https://filmgrab.files.wordpress.com/2010/09/03-escaping.png);
+  height: 430px;
+}
+h2 {
+  margin: 0px;
+  font-size: 30px;
+  color: #6d5638;
+}
+
+
+/*.App-header {
+  background-color: #2e4272;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}*/
+
+.App-intro {
+  font-size: large;
+  margin-top: 0px;
+  color: #C0A684;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
